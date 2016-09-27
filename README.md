@@ -1,1 +1,2 @@
-# Dabrowski_and_Sobik_Team
+# math4life.pl
+Portal popularyzujący matematykę i  wszystko co z nią związane...
