@@ -1,12 +1,81 @@
-.container
+body
 {
-	
+	transition-duration: 0.5s;
 }
-.col1
+.tile
 {
-	background-color: blue;
+	transition-duration: 0.5s;
 }
-.col2
+#tile1
+{
+	background-color: skyblue;
+}
+#tile2
+{
+	background-color: yellow;
+}
+#tile3
 {
 	background-color: red;
+}
+#tile4
+{
+	background-color: gray;
+}
+#tile5
+{
+	background-color: lime;
+}
+#tile6
+{
+	background-color: orange;
+}
+.tlo1
+{
+	background: url("../img/bgn1.jpg") no-repeat !important;
+}
+.tlo2
+{
+	background: url("../img/bgn2.jpg") no-repeat !important;
+}
+.tlo3
+{
+	background: url("../img/bgn3.jpg") no-repeat !important;
+}
+.tlo4
+{
+	background: url("../img/bgn4.jpg") no-repeat !important;
+}
+.tlo5
+{
+	background: url("../img/bgn5.jpg") no-repeat !important;
+}
+.tlo6
+{
+	background: url("../img/bgn6.jpg") no-repeat !important;
+}
+
+.hover1
+{
+	background-color: blue !important;
+}
+.hover2
+{
+	background-color: lime !important;
+}
+.hover3
+{
+	background-color: pink !important;
+}
+.hover4
+{
+	background-color: lightgray !important;
+}
+.hover5
+{
+	background-color: green !important;
+}
+.hover6
+{
+	background-color: purple !important;
 }
