@@ -1,10 +1,18 @@
 body
 {
 	transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
+}
+.tlo
+{
+	transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
+	background: url("../img/bgn6.jpg") no-repeat;
 }
 .tile
 {
 	transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
 }
 #tile1
 {
@@ -33,49 +41,74 @@ body
 .tlo1
 {
 	background: url("../img/bgn1.jpg") no-repeat !important;
+	transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
 }
 .tlo2
 {
 	background: url("../img/bgn2.jpg") no-repeat !important;
+	transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
 }
 .tlo3
 {
 	background: url("../img/bgn3.jpg") no-repeat !important;
+	transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
 }
 .tlo4
 {
 	background: url("../img/bgn4.jpg") no-repeat !important;
+	transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
 }
 .tlo5
 {
 	background: url("../img/bgn5.jpg") no-repeat !important;
+	transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
 }
 .tlo6
 {
 	background: url("../img/bgn6.jpg") no-repeat !important;
+	transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
 }
 
 .hover1
 {
 	background-color: blue !important;
+	transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
+	
 }
 .hover2
 {
 	background-color: lime !important;
+	transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
 }
 .hover3
 {
 	background-color: pink !important;
+	transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
 }
 .hover4
 {
 	background-color: lightgray !important;
+	transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
 }
 .hover5
 {
 	background-color: green !important;
+	transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
 }
 .hover6
 {
 	background-color: purple !important;
+	transition-duration: 0.5s;
+	-webkit-transition-duration: 0.5s;
 }
